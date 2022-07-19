@@ -5,8 +5,6 @@ body {
   font-size: 16px;
 }
 
-ul {
-  list-style-type: "|";
-  margin: 0;
-  padding: 0;
+.navigation-bar {
+  border-left: 1px solid white;
 }
