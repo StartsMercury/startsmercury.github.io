@@ -5,10 +5,18 @@ body {
   font-size: 16px;
 }
 
-header {
+.navigation-bar {
   display: flex;
 }
 
-header * {
+.navigation-bar * {
   display: inline;
+}
+
+.navigation-bar nav * {
+  flow: right;
+}
+
+#navigation-bar__author {
+  flow: left;
 }
